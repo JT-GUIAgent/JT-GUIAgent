@@ -48,21 +48,21 @@ Utilizes an enhanced training strategy with:
 
 ## ✨ Case Studies  
 
-### AndroidWorld Demos  
-| Difficulty | Task | Video |
-|------------|------|-------|
-| Easy | Record audio clip | <img src="./video/AudioRecorderRecordAudio.mp4"> |
-| Medium | Send SMS message | <img src="./video/SimpleSmsSend.mp4"> |
-| Hard | Create calendar event | <img src="./video/SimpleCalendarAddOneEvent.mp4">|
+### AndroidWorld Benchmark Tasks
 
-### Chinese App Scenarios  
-- **Video Playback**  
-  "打开b站，播放《孤独的美食家第10季》的第2集"  
-<img src="./video/CNAPP_PlayVideo.mp4">
+| Difficulty | User Instruction | Demo Link |
+|------------|-------------|-----------|
+| Easy       | Record an audio clip using Audio Recorder app and save it. | [View Demo](./video/AudioRecorderRecordAudio.mp4) |
+| Medium     | Send a text message using Simple SMS Messenger to +15132327939 with message: The night is dark and full of terrors. | [View Demo](./video/SimpleSmsSend.mp4) |
+| Hard       | In Simple Calendar Pro, create a calendar event on 2023-10-17 at 3h with the title 'Catch up on Annual Report' and the description 'We will prepare for software updates. Looking forward to productive discussions.'. The event should last for 60 mins. | [View Demo](./video/SimpleCalendarAddOneEvent.mp4) |
 
-- **Ticket Ordering**  
-  "购买5月20日北京到西安最早班次二等座靠窗票"  
-<img src="./video/CNAPP_TicketOrder.mp4">
+### Real-World Chinese Applications
+
+| Scenario | User Instruction | Demo Link |
+|----------|------------------|-----------|
+| Video Playback | 打开b站，播放《孤独的美食家第10季》的第2集。 | [View Demo](./video/CNAPP_PlayVideo.mp4) |
+| Ticket Ordering | 打开12306，购买5月20日北京出发到西安、最早一班的车票，其他要求：二等座、靠窗。 | [View Demo](./video/CNAPP_TicketOrder.mp4) |
+
 
 ## ✨ Technical Implementation
 
