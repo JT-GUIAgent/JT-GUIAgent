@@ -1,0 +1,19 @@
+                                      mean_success_rate             
+difficulty                            easy medium  hard
+tags                                                   
+complex_ui_understanding              0.50    0.2  0.14
+data_edit                             0.82   0.57   0.0
+data_entry                            0.73    0.4  0.17
+game_playing                          0.00      -     -
+information_retrieval                 0.43   0.33   0.0
+math_counting                         0.00   0.33  0.33
+memorization                          0.00    0.0   0.0
+multi_app                             0.00    0.0  0.08
+parameterized                         0.68   0.44  0.31
+repetition                            0.50    0.2   0.4
+requires_setup                        0.67   0.33   0.0
+screen_reading                        0.67    0.0  0.22
+search                                0.82    0.2  0.33
+transcription                         0.50    0.0   0.0
+untagged                              1.00    1.0     -
+verification                          1.00      -     -
